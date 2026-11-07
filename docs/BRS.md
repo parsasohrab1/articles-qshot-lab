@@ -1,7 +1,7 @@
 # Business Requirements Specification (BRS)
 
 **Product:** Shot-Budget Lab (articles-qshot-lab)
-*Reconstructed from the README, the requirements document, the TRL assessment and the tests of this repository. Not reviewed by the owner. A patent attorney must review before publication of method details.*
+*Reconstructed from the README, the requirements document, the TRL assessment and the tests of this repository. Not reviewed by the owner. Do not publish method details covered by filed claims.*
 
 ## 1. Business problem
 Estimating the energy of a Pauli-sum Hamiltonian on a quantum device costs measurement shots. How a fixed shot budget is split among the terms changes the error.

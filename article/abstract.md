@@ -20,7 +20,7 @@ Estimating the expectation value of a Hamiltonian on a quantum computer requires
 
 ## Before submitting
 1. Replace every `[bracketed]` placeholder with values the team measured; nothing marked `[to be measured]` has a result yet.
-2. Patent rule: do not disclose methods covered by this product's filed claims; a patent attorney must review before submission.
+2. Patent rule: do not disclose methods covered by this product's filed claims.
 3. Add author names and affiliations; confirm the abstract limits in the venue's author guidelines (the limits above are typical for the venue family).
 4. Numbers are the results recorded for this venue in the page database (owner's own runs). Check them against the paper-drafts before use; anything marked [to be measured] has not been measured.
 5. The Word file for the submission system is in the platform repository (`outputs/abstracts/`).
